@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9723e2b2-bf99-48dd-ba81-9041c1305e40" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile-pic3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile-pic3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/sendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/sendEmail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
