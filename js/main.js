@@ -229,9 +229,9 @@
 		      type: "POST",
 		      url: "inc/sendEmail.php",
 		      data: $(form).serialize(),
-		      beforeSend: function() { 
+		      beforeSend: function() {
 
-		      	sLoader.fadeIn(); 
+		      	sLoader.fadeIn();
 
 		      },
 		      success: function(msg) {

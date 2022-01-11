@@ -5,7 +5,7 @@ $siteOwnersEmail = 'faezeghorbanpour96@gmail.com';
 
 
 if($_POST) {
-
+    echo "php file loaded !";
    $name = trim(stripslashes($_POST['contactName']));
    $email = trim(stripslashes($_POST['contactEmail']));
    $subject = trim(stripslashes($_POST['contactSubject']));
