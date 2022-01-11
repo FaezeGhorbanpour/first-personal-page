@@ -5,7 +5,7 @@ $siteOwnersEmail = 'faezeghorbanpour96@gmail.com';
 
 
 if($_POST) {
-    echo "php file loaded !";
+
    $name = trim(stripslashes($_POST['contactName']));
    $email = trim(stripslashes($_POST['contactEmail']));
    $subject = trim(stripslashes($_POST['contactSubject']));
@@ -52,7 +52,7 @@ if($_POST) {
 		if ($mail)
 		    { echo "OK"; }
         else
-            { echo "Something went wrong. Please try again."; }
+            { echo "Something went wrong. Please try again! :("; }
 	}
 
 	else {
